@@ -1,15 +1,15 @@
-学习github
+学习`github`
 >学习怎么建立仓库<br>
 >怎么编辑使用md文档<br>
 >明白怎么通过Github与本地文件联动<br>
 >github的一些基本操作<br>
 
-学会使用arduino与pc端做一些简单的联动
+学会使用`arduino`与pc端做一些简单的联动
 >学习arduino官方的IDE和独特的编程语言<br>
 >争取做到与电机能够简单的互动<br>
 
 轮询和中断
->轮询相当于while语句，但相当占用CPU资源<br>
+>轮询相当于`while`语句，但相当占用CPU资源<br>
 >中断即有回复和暂停两个部分，占用的cpu资源较少<br>
 
 注意Github使用的相关行业规整
